@@ -1,4 +1,5 @@
 Link til virkende deployed side: http://larsan.surge.sh/
+brug reload data knappen til at refreshe
 
 #WEEK 40 3Sem
 
