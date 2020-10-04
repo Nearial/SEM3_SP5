@@ -1,4 +1,4 @@
-const URL = "http://localhost:8080/jpareststarter/api/person/";
+const URL = "https://larsan.dk/devops-starter-1.0.1/api/person/";
 
 function getPersons(){
     return fetch(URL + "all")
