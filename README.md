@@ -1,3 +1,5 @@
+Link til virkende deployed side: http://larsan.surge.sh/
+
 #WEEK 40 3Sem
 
 ## TUESDAY
